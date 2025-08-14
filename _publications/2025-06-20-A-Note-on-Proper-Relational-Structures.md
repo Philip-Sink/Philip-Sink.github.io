@@ -3,7 +3,7 @@ title: "A Note on Proper Relational Structures"
 collection: publications
 category: prepublications
 permalink: /publication/2025-06-20-A-Note-on-Proper-Relational-Structures
-excerpt: 'In this note we provide an algorithm for translating relational structures into "proper" relational structures, i.e., those such that there is no pair of worlds w and u such that w is accessible from u for every agent. In particular, our method of translation preserves many classical properties of relational structures, such as transitivity and the Euclidean property. As a result, this method of translation has many applications in the literature on Simplicial Semantics for modal logic, where the creation of proper canonical relational structures is a common step in proofs of completeness. '
+excerpt: 'In this note we provide an algorithm for translating relational structures into "proper" relational structures, i.e., those such that there is no pair of worlds \texit{w} and \textit{u} such that \textit{w} is accessible from \textit{u} for every agent. In particular, our method of translation preserves many classical properties of relational structures, such as transitivity and the Euclidean property. As a result, this method of translation has many applications in the literature on Simplicial Semantics for modal logic, where the creation of proper canonical relational structures is a common step in proofs of completeness. '
 date: 2025-06-20
 venue: 'arXiv'
 slidesurl: 
