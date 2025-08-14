@@ -83,7 +83,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   tech memos:
-    title: 'Technical Memos'
+    title: 'Technical Reports'
   prepublications:
     title: 'Prepublications'
 
