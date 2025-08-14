@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "philip-sink.jpg"
   name             : "Philip Sink"
-  pronouns         : # example: "he/him"  
+  pronouns         : he/him
   bio              : "PhD Student in Logic, Computation, and Methodology in the Philosophy Department at Carnegie Mellon University.<br /> My main area of study is Modal Logic, with a focus on Simplicial Semantics and applications to Distributed Computing. Other areas of research include Formal Epistemology and 20th century American Pragmatism."
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
