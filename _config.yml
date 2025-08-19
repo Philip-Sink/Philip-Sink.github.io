@@ -224,8 +224,8 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio: false
-    output: false
+  portfolio: 
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
