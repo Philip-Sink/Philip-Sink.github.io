@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-(/images/editing-talk.png)
+![Editing a Markdown file for a talk](/images/editing-talk.png)
