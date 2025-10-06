@@ -4,7 +4,7 @@ collection: TAing
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-TAing-1
 venue: "Carnegie Mellon University, Department of Philosophy"
-date: Spring 2021
+date: 2021-02-01
 location: "Pittsburgh, PA"
 ---
 
