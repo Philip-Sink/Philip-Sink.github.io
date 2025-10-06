@@ -1,1 +1,16 @@
+---
+title: "TA for 80-100 ''Introduction to Philosophy''"
+collection: TAing
+type: "Undergraduate course"
+permalink: /teaching/2025-fall-TAing-4
+venue: "Carnegie Mellon University, Department of Philosophy"
+date: 2025-08-25
+location: "Pittsburgh, PA"
+---
+
+TA for the course 80-100 ''Introduction to Philosophy'', with Instructor of Record Dr. Aydin Mohseni. Description from [here](http://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/courses/).
+
+"Even philosophers have a hard time explaining what exactly philosophy is. Instead of attempting a definition, one might instead list some of the questions philosophers try to answer. Like most other academic fields, philosophy has its own sub-disciplines, and each of these has its own questions it tries to answer. In this course, we will be looking at questions from several of these areas of philosophy, including: What is the mind? Do we have free will? What does the answer to that question mean for practices of reward and punishment? Is morality relative? What, if anything, is its connection to religion? How can I know the right thing to do? How can I know anything? This class isn't a historical introduction to philosophy, and we will be jumping around through history and subjects as we please, concerned only with interesting questions and good answers. As a whole, the course will strongly emphasize some of the basic skills of doing just about any kind of philosophy: how to recognize and understand arguments, how to evaluate them, and how to construct your own. As it turns out, these are skills you need to successfully navigate your way through just about any field of study and any career. This course will include a fair amount of writing, but you'll be getting lots of help from me, from your TA, and even from your peers."
+
+
 
