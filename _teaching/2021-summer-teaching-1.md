@@ -8,7 +8,7 @@ date: 2021-07-05
 location: "Pittsburgh, PA"
 ---
 
-Instructor of Record for the course 80-100 ''Introduction to Philosophy''. Syllabus [here](http://academicpages.github.io/files/80-100 Syllabus Sum2021.pdf).
+Instructor of Record for the course 80-100 ''Introduction to Philosophy''. Syllabus [here](http://academicpages.github.io/files/80100SyllabusSum2021.pdf).
 
 ``Do we have free will? What is the nature of consciousness? What is truth? These are the sorts of questions
 that keep us up at night. The purpose of philosophy is to make sense of these questions and attempt to answer
