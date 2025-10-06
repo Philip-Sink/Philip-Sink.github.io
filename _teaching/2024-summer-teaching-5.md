@@ -8,7 +8,7 @@ date: 2021-06-24
 location: "Pittsburgh, PA"
 ---
 
-Instructor of Record for the course 80-212 ''Arguments and Logical Analysis''. Syllabus [here](http://philip-sink.github.io/files/80100SyllabusSpr2024.pdf).
+Instructor of Record for the course 80-212 ''Arguments and Logical Analysis''. Syllabus [here](http://philip-sink.github.io/files/80212SyllabusSum2024.pdf).
 
 ``What counts as a “successful” argument? Is it one based on evidence? If so, what counts as “good” evidence?
 Suppose we could answer this question - is that enough? What does it mean to “base” an argument on
