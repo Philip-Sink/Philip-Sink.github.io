@@ -4,7 +4,7 @@ collection: Teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-summer-teaching-5
 venue: "Carnegie Mellon University, Department of Philosophy"
-date: 2021-06-24
+date: 2024-06-24
 location: "Pittsburgh, PA"
 ---
 
