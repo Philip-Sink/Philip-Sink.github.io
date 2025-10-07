@@ -1,6 +1,7 @@
 ---
 title: "TA for 80-100 ''Introduction to Philosophy''"
 collection: TAing
+category: TAing
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-TAing-4
 venue: "Carnegie Mellon University, Department of Philosophy"
