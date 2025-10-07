@@ -1,6 +1,7 @@
 ---
 title: "Instructor for 80-212 ''Arguments and Logical Analysis''"
 collection: Teaching
+category: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-summer-teaching-5
 venue: "Carnegie Mellon University, Department of Philosophy"
