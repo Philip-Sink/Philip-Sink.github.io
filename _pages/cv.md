@@ -80,6 +80,7 @@ Service
   * Other various duties
 
 * ``Minorities and Philosophy'' Cochair, Carnegie Mellon University, Fall 2021-Spring 2024
+  * Nominated position
   * Ran yearly survey of graduate student life in the department
   * Other various duties
   * [More information here](https://www.mapforthegap.com/)
