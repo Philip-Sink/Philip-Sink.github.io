@@ -73,14 +73,22 @@ Teaching
 Service
 ======
 * Philosophy Department Graduate Representative, Carnegie Mellon University, Fall 2024-present
+  * Elected position (uncontested)
+  * Took notes on faculty meetings, and reported information to graduate students.
+  * Assisted with the selection of collquium speakers
+  * Helped ensure various graduate student service positions in the department were filled
+  * Other various duties
 
-* ``Minorities and Philosophy'' Cochair, Fall 2021-Spring 2024
+* ``Minorities and Philosophy'' Cochair, Carnegie Mellon University, Fall 2021-Spring 2024
+  * Ran yearly survey of graduate student life in the department
+  * Other various duties
+  * [More information here](https://www.mapforthegap.com/)
 
-* Reviewed paper for ``Journal of Logic and Computation''
+* Reviewed paper for conference ``Theoretical Aspects of Rationality and Knowledge 2025''
 
-* Paper review 2
+* Reviewed paper for ``Journal of Logic and Computation'' in 2022
 
 * Center for Formal Epistemology Workshop 2022: Learning, Randomness, and Complexity Organizational Assistant
   * Helped with broad organizational duties
   * Chaired a talk
-* https://francesca-zafforablando.squarespace.com/cfe-workshop-program
+  * [More information here](https://francesca-zafforablando.squarespace.com/cfe-workshop-program)
