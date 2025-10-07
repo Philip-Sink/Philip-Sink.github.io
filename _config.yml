@@ -97,9 +97,9 @@ teaching_category:
 
 talks_category:
   contributed:
-    title: 'Contributed Talk'
+    title: 'Contributed Talks'
   invited:
-    title: 'Invited Talk'
+    title: 'Invited Talks'
   
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
