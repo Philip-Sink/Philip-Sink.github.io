@@ -91,9 +91,9 @@ teaching_category:
   teaching:
     title: 'Instructor'
   TAing:
-    title: 'TAing'
+    title: 'TA'
   grading:
-    title: 'Grading'
+    title: 'Grader'
 
 talks_category:
   contributed:
