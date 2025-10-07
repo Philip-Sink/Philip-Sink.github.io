@@ -1,6 +1,7 @@
 ---
 title: "Instructor for 80-210 ''Logic and Proofs''"
 collection: Teaching
+category: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-3
 venue: "Carnegie Mellon University, Department of Philosophy"
