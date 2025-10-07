@@ -1,6 +1,7 @@
 ---
 title: "Instructor for 80-100 ''Introduction to Philosophy''"
 collection: Teaching
+category: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-summer-teaching-1
 venue: "Carnegie Mellon University, Department of Philosophy"
