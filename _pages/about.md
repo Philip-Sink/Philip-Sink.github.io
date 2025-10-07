@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Philip Sink loves Applied Philosphy"
+title: "Philip Sink loves Applied Philosophy"
 author_profile: true
 redirect_from: 
   - /about/
