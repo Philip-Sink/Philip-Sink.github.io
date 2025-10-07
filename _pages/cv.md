@@ -11,35 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Logic, Computation, and Methodology, Carnegie Mellon University, 2023
+* B.A. in Mathematics/Philosophy, Cornell University, 2020
+
+Areas of Specialization/Concentration
+======
+* Areas of Specialization
+  * Modal Logic
+  * Mathematical Logic
+  * Epistemology
+* Areas of Concentration
+  * Philosophy of Computation
+  * Philosophy of Science
+  * American Pragmatism
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2020-present: PhD Student
+  * Carnegie Mellon University
+  * Duties includes: Various teaching and service (see below)
+  * Planned Graduation: May 2026
+  * Advisor: Adam Bjorndahl
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2025: NASA Intern in Topology and Modal Logic
+  * NASA Langley Research Center
+  * Duties included: Research into connections between epistemic modal logic and distributed computing.
+  * Developed a novel gossip protocol by connecting belief revision and action models in the setting of simplicial semantics.
+  * Supervisor: Dr. Alwyn Goodloe
+ 
+* Summer 2023: NASA Intern in Topology and Modal Logic
+  * NASA Langley Research Center
+  * Duties included: Research into connections between epistemic modal logic and distributed computing, as well as mentoring other interns.
+  * Developed the basics of a new account of belief revision using simplicial semantics for epistemic modal logic.
+  * Supervisor: Dr. Alwyn Goodloe
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2022: NASA Intern in Topology and Modal Logic
+  * NASA Langley Research Center
+  * Duties included: Research into connections between epistemic modal logic and distributed computing.
+  * Developed a new semantics for modal logic in simplicial complexes.
+  * Supervisor: Dr. Alwyn Goodloe
 
 Publications
 ======
