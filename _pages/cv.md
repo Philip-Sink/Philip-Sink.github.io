@@ -72,12 +72,15 @@ Teaching
   
 Service
 ======
-* Philosophy Department Graduate Representative
+* Philosophy Department Graduate Representative, Carnegie Mellon University, Fall 2024-present
 
-* ``Minorities and Philosophy'' Cochair
+* ``Minorities and Philosophy'' Cochair, Fall 2021-Spring 2024
 
-* Paper review 1
+* Reviewed paper for ``Journal of Logic and Computation''
 
 * Paper review 2
 
-* CFE Conference Assist
+* Center for Formal Epistemology Workshop 2022: Learning, Randomness, and Complexity Organizational Assistant
+  * Helped with broad organizational duties
+  * Chaired a talk
+* https://francesca-zafforablando.squarespace.com/cfe-workshop-program
