@@ -1,6 +1,7 @@
 ---
 title: "TA for 80-150 ''Nature of Reason''"
 collection: TAing
+category: TAing
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-TAing-1
 venue: "Carnegie Mellon University, Department of Philosophy"
