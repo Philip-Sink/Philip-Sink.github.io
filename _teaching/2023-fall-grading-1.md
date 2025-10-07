@@ -1,6 +1,7 @@
 ---
 title: "Grader for 80-226 ''The Nature of Scientific Revolutions''"
-collection: grading
+collection: Grading
+category: grading
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-grading-1
 venue: "Carnegie Mellon University, Department of Philosophy"
