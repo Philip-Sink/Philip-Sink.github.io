@@ -70,6 +70,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Philosophy Department Graduate Representative
+
+* ``Minorities and Philosophy'' Cochair
+
+* Paper review 1
+
+* Paper review 2
