@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Logic, Computation, and Methodology, Carnegie Mellon University (expected)
 * M.S. in Logic, Computation, and Methodology, Carnegie Mellon University, 2023
 * B.A. in Mathematics/Philosophy, Cornell University, 2020
 
