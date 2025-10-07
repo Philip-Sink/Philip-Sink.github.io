@@ -1,6 +1,7 @@
 ---
 title: "Instructor for 80-150 ''Nature of Reason''"
 collection: Teaching
+category: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-summer-teaching-6
 venue: "Carnegie Mellon University, Department of Philosophy"
