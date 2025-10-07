@@ -87,13 +87,13 @@ publication_category:
   tech memos:
     title: 'Technical Reports'
 
-publication_category:
-  manuscripts:
-    title: 'Journal Articles'
-  prepublications:
-    title: 'Prepublications'
-  tech memos:
-    title: 'Technical Reports'
+teaching_category:
+  teaching:
+    title: 'Teaching'
+  TAing:
+    title: 'TAing'
+  grading:
+    title: 'Grading'
   
 
 # Site Settings
