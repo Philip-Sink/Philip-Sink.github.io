@@ -23,6 +23,7 @@ Areas of Specialization/Concentration
   * Epistemology
 * Areas of Concentration
   * Philosophy of Computation
+  * Philosophy of Mathematics
   * Philosophy of Science
   * American Pragmatism
 
