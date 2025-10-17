@@ -3,7 +3,7 @@ title: "Modal Logic Without Possible Worlds: A New Semantics for Modal Logic in 
 collection: publications
 category: tech memos
 permalink: /publication/2022-12-01-Modal-Logic-Without-Possible-Worlds
-excerpt: 'In this paper, we set out to give a novel semantics for modal logic in simplicial complexes. The motivation for this semantics will be first the replacement of possible worlds with the idea of an ``agent perspective''. After exploring some of the philosophical implications of such a move, we give a semantics based around this idea. Following this, we explore some of the more interesting consequences of such a system, in particular the soundness of an unusual axiom we call NU^*. After giving soundness and completeness, we conclude by exploring ways to weaken this axiom in our semantics.'
+excerpt: 'In this paper, we set out to give a novel semantics for modal logic in simplicial complexes. The motivation for this semantics will be first the replacement of possible worlds with the idea of an "agent perspective". After exploring some of the philosophical implications of such a move, we give a semantics based around this idea. Following this, we explore some of the more interesting consequences of such a system, in particular the soundness of an unusual axiom we call NU^*. After giving soundness and completeness, we conclude by exploring ways to weaken this axiom in our semantics.'
 date: 2022-12-01
 venue: 'NASA Technical Reports Server'
 paperurl: 'https://ntrs.nasa.gov/api/citations/20220015748/downloads/NASA-TM-20220015748.pdf'
