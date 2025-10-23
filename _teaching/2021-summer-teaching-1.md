@@ -20,3 +20,9 @@ Breaking down philosophical arguments can help you to break down arguments you e
 to day life, and help you to more adeptly and clearly construct arguments of your own.''
 
 Description [here](http://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/courses/).
+
+Pedagogical Goals:
+
+When I was asked to develop a syllabus for ``Introduction to Philosophy'', I quickly realized that breadth was not a reasonable goal. I also decided that my primary aim, relatedly, would not be to teach the students about various points of view in philosophy, but rather to teach them about philosophical thinking as a skill that one can develop. In particular, I chose to focus on the skills of reading an argument, unpacking and understanding that argument, and then critiquing said argument.
+
+So, I chose to focus on a series of narrower debates. This involved picking a topic (for example: What does it mean to say that something is "true"?) and finding two opposing viewpoints within that topic. Then, students would complete argument diagrams of each viewpoint, which allowed them to more specifically articulate what was at stake in each view point. Essays were specifically focused around articulating the structure of these arguments, and evaluating opposing views, the latter being a skill we first practiced during recitation sections.
