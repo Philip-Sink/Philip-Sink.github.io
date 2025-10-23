@@ -31,3 +31,7 @@ with the following (this is not an exhaustive list):
 ● Finally: inference rules, proofs, and strategies for arguments.''
 
 Description [here](http://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/courses/).
+
+Pedagogical Goals: 
+
+This was a course mostly developed by [Wilfried Sieg](https://www.cmu.edu/dietrich/philosophy/people/faculty/sieg.html). Most of the course is run online using OLI and a proof system called AProS. My role was largely to give the students weekly exercizes that covered frequently made mistakes on quizzes and assignments. However, I learned distinctly that while AProS was an excellent teaching tool (and I would use it again), it has to be supplemented with pencil/paper assignments. AProS makes tackling longer and more involved proofs much more tractable (and therefore makes connecting logical proof structure to mathematical reasoning more salient), but many students would and did complete proofs in AProS simply by clickig around randomly until they happened to hit the right sequence of proof steps. I could get the best of both worlds by using class time to ask students to work out simple, targeted problems that emphasized the relevant proof techniques by hand, often in small groups. 
