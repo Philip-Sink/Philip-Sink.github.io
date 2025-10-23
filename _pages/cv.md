@@ -33,25 +33,25 @@ Work experience
   * Carnegie Mellon University
   * Duties includes: Various teaching and service (see below)
   * Planned Graduation: May 2026
-  * Advisor: Adam Bjorndahl
+  * Advisor: [Adam Bjorndahl](https://www.adambjorndahl.com/)
 
-* Spring 2025: NASA Intern in Topology and Modal Logic
+* Spring 2025: [NASA Intern in Topology and Modal Logic](https://stemgateway.nasa.gov/s/course-offering/a0B3d0000025gA2EAI/topology-and-modal-logic)
   * NASA Langley Research Center
   * Duties included: Research into connections between epistemic modal logic and distributed computing.
   * Developed a novel gossip protocol by connecting belief revision and action models in the setting of simplicial semantics.
-  * Supervisor: Dr. Alwyn Goodloe
+  * Supervisor: [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/)
  
-* Summer 2023: NASA Intern in Topology and Modal Logic
+* Summer 2023: [NASA Intern in Topology and Modal Logic](https://stemgateway.nasa.gov/s/course-offering/a0Bt000000AUvwUEAT/topology-and-modal-logic)
   * NASA Langley Research Center
   * Duties included: Research into connections between epistemic modal logic and distributed computing, as well as mentoring other interns.
   * Developed the basics of a new account of belief revision using simplicial semantics for epistemic modal logic.
-  * Supervisor: Dr. Alwyn Goodloe
+  * Supervisor: [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/)
 
-* Summer 2022: NASA Intern in Topology and Modal Logic
+* Summer 2022: [NASA Intern in Topology and Modal Logic](https://stemgateway.nasa.gov/s/course-offering/a0Bt0000004lQR1EAM/topology-and-modal-logic)
   * NASA Langley Research Center
   * Duties included: Research into connections between epistemic modal logic and distributed computing.
   * Developed a new semantics for modal logic in simplicial complexes.
-  * Supervisor: Dr. Alwyn Goodloe
+  * Supervisor: [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/)
 
 Publications
 ======
