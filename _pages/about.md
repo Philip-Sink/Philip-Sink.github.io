@@ -11,6 +11,6 @@ Hello! My name is Philip Sink, and I am a PhD Student in the Philosophy Departme
 
 ![Simplicial Muddy Children](/images/Muddy Children.png)
 
-My second area of research is an exploration of the work of Alan Turing that draws heavily from and has been guided by Wilfried Sieg's interpretation of Turing. This work is also joint with a PhD student at the uUniversity of Pittsburgh named Stephen Perry, who specializes in philosophy of applied mathematics.
+My second area of research is an exploration of the work of Alan Turing that draws heavily from and has been guided by Wilfried Sieg's interpretation of Turing. This work is also joint with a PhD student at the University of Pittsburgh named Stephen Perry, who specializes in philosophy of applied mathematics.
 
 My third area of research is on the metaphilosophy of Richard Rorty. In 2024, I was invited to a special session of the APA to present to the Richard Rorty Society. There I gave a talk which compared the metaphilosophies of, on the one hand, Richard Rorty, and on the other, Philip Kitcher, whose recent book "What's the Use of Philosophy" had made a stir.
