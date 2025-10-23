@@ -74,17 +74,27 @@ Teaching
 Service
 ======
 * Philosophy Department Graduate Representative, Carnegie Mellon University, Fall 2024-present
-  * Elected position (uncontested)
-  * Took notes on faculty meetings, and reported information to graduate students.
+  * Served as main point of contact between Philosophy Department faculty and graduate students
+  * Attended faculty meetings and wrote a monthly report for the graduate students
   * Assisted with the selection of colloquium speakers
   * Helped ensure various graduate student service positions in the department were filled
-  * Other various duties
 
 * "Minorities and Philosophy" Co-chair, Carnegie Mellon University, Fall 2021-Spring 2024
   * Nominated position
   * Ran yearly survey of graduate student life in the department
-  * Other various duties
   * [More information here](https://www.mapforthegap.com/)
+
+* Organizer for "25th Annual Pitt CMU Graduate Conference", August 2024-March 8th 2025
+  * Selected Keynote speakers
+  * Solicited Graduate students to review papers
+  * Helped select winning submissions
+  * Organized catering day of
+  * [More information here](https://www.philosophy.pitt.edu/graduate/pitt-cmu-graduate-conference)
+ 
+* Graduate Admissions Committee 2021, December 2020-February 2021
+  * Reviewed Applications to the CMU Philosophy Department Masters and PhD programs for the 2021 academic year
+  * Helped in selecting candidates from first pool of submissions
+  * Attending meetings for selecting final cohort
 
 * Reviewed paper for conference "Theoretical Aspects of Rationality and Knowledge 2025"
 
