@@ -25,4 +25,8 @@ contemporary cognitive science.''
 
 Description [here](http://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/courses/).
 
+Pedagogical Goals:
+
+This course was largely adapted from the textbook "Thinking Things Through" by Clark Glymour, as well as Francesca Zaffora Blando's syllabus for the same course. This course was an absolutely delight to teach. Some units, in particular the unit on Bayesian epistemology and Bayesian solutions to the problem of induction, I hope to use in future versions of [Arguments and Logical Analysis](https://philip-sink.github.io/teaching/2024-summer-teaching-5).
+
 
