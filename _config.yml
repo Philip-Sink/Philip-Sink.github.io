@@ -82,10 +82,12 @@ author:
 publication_category:
   manuscripts:
     title: 'Journal Articles'
-  prepublications:
-    title: 'Prepublications'
+  conferences:
+    title: 'Conference Proceedings'
   tech memos:
     title: 'Technical Reports'
+  prepublications:
+    title: 'Prepublications'
 
 teaching_category:
   teaching:
