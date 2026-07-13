@@ -86,6 +86,8 @@ publication_category:
     title: 'Conference Proceedings'
   tech memos:
     title: 'Technical Reports'
+  review:
+    title: 'Under Review'
   prepublications:
     title: 'Prepublications'
 
