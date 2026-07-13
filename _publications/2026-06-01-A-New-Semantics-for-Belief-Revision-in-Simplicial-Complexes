@@ -3,17 +3,11 @@ A New Semantics for Belief Revision in Simplicial Complexes"
 collection: publications
 category: tech memos
 permalink: /publication/2026-06-01-A-New-Semantics-for-Belief-Revision-in-Simplicial-Complexes
-excerpt: 'In this paper we set out to develop a novel method for handling transient faults in gossip protocols. In particular, we are interested in settings where a signal “P” can come across the network, followed by a signal “¬P” at a later time. These signals could even come from the same agent, and any agent is capable of failing as such. The main idea to handle such a dramatically faulty setting is to use a technique from the philosophical literature called “belief revision”. [31] This allows agents to update on information contrary to their beliefs without resorting to probabilities. However, belief revision is often difficult to implement in a practical setting. Therefore, we turn towards using simplicial semantics for epistemic modal logic to represent each single time-slice of a protocol. Such models already have
-a history of applications in distributed computing. [25] [36] [19] [26] [24] [22] [23] [29]
-In order to model the transitions between time slices, we will use action models. These
-too already have a history in distributed computing. [26] [19] [3] [34] [39] [15] We will
-modify the application of action models to simplicial complexes in order to incorporate
-belief revision. In so doing, we will be able to define a novel gossip protocol for handling
-the prescribed fault scenario.'
+excerpt: 'In this paper we set out to develop a novel method for handling transient faults in gossip protocols. In particular, we are interested in settings where a signal “P” can come across the network, followed by a signal “¬P” at a later time. These signals could even come from the same agent, and any agent is capable of failing as such. The main idea to handle such a dramatically faulty setting is to use a technique from the philosophical literature called “belief revision”. [31] This allows agents to update on information contrary to their beliefs without resorting to probabilities. However, belief revision is often difficult to implement in a practical setting. Therefore, we turn towards using simplicial semantics for epistemic modal logic to represent each single time-slice of a protocol. Such models already have a history of applications in distributed computing. [25] [36] [19] [26] [24] [22] [23] [29] In order to model the transitions between time slices, we will use action models. These too already have a history in distributed computing. [26] [19] [3] [34] [39] [15] We will modify the application of action models to simplicial complexes in order to incorporate belief revision. In so doing, we will be able to define a novel gossip protocol for handling the prescribed fault scenario.'
 date: 2026-06-01
 venue: 'NASA Technical Reports Server'
-paperurl: 'https://ntrs.nasa.gov/api/citations/20220015748/downloads/NASA-TM-20220015748.pdf'
-citation: 'Philip Sink (2022). &quot;Modal Logic Without Possible Worlds: A New Semantics for Modal Logic in Simplicial Complexes&quot; <i>NASA Technical Reports Server</i>'
+paperurl: 'https://ntrs.nasa.gov/api/citations/20260004926/downloads/NASATM-20260004926.pdf'
+citation: 'Philip Sink, Alwyn Goodloe (2026). &quot;A New Semantics for Belief Revision in Simplicial Complexes&quot; <i>NASA Technical Reports Server</i>'
 ---
 
 <p>This paper represents my earliest work in simplicial semantics, completed for the <a href="https://stemgateway.nasa.gov/public/s/course-offering/a0Bt000000AUvwUEAT/topology-and-modal-logic">Internship in Topology and Modal Logic</a> with NASA LaRC. Ultimately, this work became the bedrock of my master's thesis, and later my doctoral thesis. Unfortunately, the given manuscript has one major error in its presentation: my solution for assigning truth values to atoms at a facet can falsify some formulas assigned to that facet. Later work solves this error. A link to the paper as seen in the technical reports server may be found <a href="https://ntrs.nasa.gov/citations/20220015748">here</a>.</p>
