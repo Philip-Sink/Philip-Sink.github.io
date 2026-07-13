@@ -15,4 +15,4 @@ citation: 'Adam Bjorndahl and Philip Sink (2025). &quot;A Note on Proper Relatio
 
 <p>This paper is not obviously connected to simplicial semantics, however. What this paper provides is a general tool for closing certain gaps in more complicated completeness proofs in the simplicial literature. Generally, completeness in that setting is shown first by generating a canonical Kripke model which is translated into a simplicial model. However, the general techniques for creating canonical Kripke models do not always create a mdoel which can be so translated. Our main result in this paper provides a way of transforming canonical models in such a way that the output is bisimilar, but the output is guaranteed to be translateable into a simplicial model under most translation functions.</p>
 
-<p>The content of this paper was published in the 2026 proceedings of Advances in Modal Logic.</p>
+<p>The content of this paper was published in the 2026 proceedings of Advances in Modal Logic, alongside <a href="https://philip-sink.github.io/publication/2026-06-01-A-Semantics-for-Belief-in-Simplicial-Complexes">other work</a></p>.
