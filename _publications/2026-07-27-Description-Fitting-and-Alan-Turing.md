@@ -1,14 +1,18 @@
 ---
 title: "Description Fitting and Alan Turing"
 collection: publications
-category: tech memos
-permalink: /publication/2022-12-01-Modal-Logic-Without-Possible-Worlds
-excerpt: 'In this paper, we set out to give a novel semantics for modal logic in simplicial complexes. The motivation for this semantics will be first the replacement of possible worlds with the idea of an "agent perspective". After exploring some of the philosophical implications of such a move, we give a semantics based around this idea. Following this, we explore some of the more interesting consequences of such a system, in particular the soundness of an unusual axiom we call NU^*. After giving soundness and completeness, we conclude by exploring ways to weaken this axiom in our semantics.'
-date: 2022-12-01
-venue: 'NASA Technical Reports Server'
-paperurl: 'https://ntrs.nasa.gov/api/citations/20220015748/downloads/NASA-TM-20220015748.pdf'
-citation: 'Philip Sink (2022). &quot;Modal Logic Without Possible Worlds: A New Semantics for Modal Logic in Simplicial Complexes&quot; <i>NASA Technical Reports Server</i>'
+category: review
+permalink: /publication/2026-07-27-Description-Fitting-and-Alan-Turing
+excerpt: '<p>This paper sets out to do two things. First, we introduce a novel approach for analyzing applied mathematics, called ``Description Fitting''. This methodology attempts to understand the success of a piece of applied mathematics by analyzing the choices made by the applied mathematician in how they choose to ``describe'' both the informal, target phenomena and the mathematics they hope will effectively model it. In particular, a focus is given to the goals of the modeler, and how these goals influence the descriptions themselves.</p>
+		
+		<p>With this idea in hand, we turn towards the work of Alan Turing. Our focus is on his theory of computation, and in particular his work on ``On Computable Numbers, with an Application to the Entscheidungsproblem'' (Turing 1936) There, Turing gives a particular account of an informal human computer, cached out in terms of what Wilfried Sieg calls ``boundedness'' and ``locality'' conditions. (Sieg 2018) We observe that how Turing sets out these descriptions seems not to be governed solely by the goal of empirical adequacy. Rather, Turing deliberately tailored these descriptions in order to make the connection to his desired formalism, ``arbitrary production machines'', more salient. Moreover, this tailoring is highly motivated by the goals of giving an account of a ``computable number'', {\`a} la Borel, and by giving a negative answer to the Entscheidungsproblem. (Borel 1912)</p>
+		
+		<p>We conclude by reflecting on how these fitted descriptions contributed to the success of Turing's formalism. In particular, remarks from both Church and G{\"o}del suggest that they saw Turing's definition of computability as superior to their own, despite the well known equivalence between the class of functions specified by all such definitions. We propose that it is the very process of carefully fitting the description of computability which makes Turing's definition so compelling, and as such accounts for its long-standing success.</p>'
+date: 2026-27-7
+venue: 
+paperurl: 
+citation: 
 ---
 
-<p>This paper represents my earliest work in simplicial semantics, completed for the <a href="https://stemgateway.nasa.gov/public/s/course-offering/a0Bt000000AUvwUEAT/topology-and-modal-logic">Internship in Topology and Modal Logic</a> with NASA LaRC. Ultimately, this work became the bedrock of my master's thesis, and later my doctoral thesis. Unfortunately, the given manuscript has one major error in its presentation: my solution for assigning truth values to atoms at a facet can falsify some formulas assigned to that facet. Later work solves this error. A link to the paper as seen in the technical reports server may be found <a href="https://ntrs.nasa.gov/citations/20220015748">here</a>.</p>
+<p>This paper is jointly authored with my colleague</p>
 
