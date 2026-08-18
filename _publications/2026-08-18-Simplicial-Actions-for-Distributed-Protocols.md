@@ -11,4 +11,8 @@ paperurl: 'https://arxiv.org/abs/2608.16881'
 bibtexurl: 'https://arxiv.org/abs/2608.16881'
 citation: 'Philip Sink (2026). &quot;Simplicial Actions for Distributed Protocols&quot; <i>arXiv</i> '
 ---
-<p></p>
+<p>This paper is my first step in trying to answer the following question: "Why should anyone _other_ than philosophers care about belief revision?" As such, it extends work from my [tech memo](), published earlier this year.
+
+ntrs.nasa.gov/citations/20...
+
+The advantage of the notion of revision from the previous chapter is that, in the setting of simplicial semantics, we get nearness/similarity "for free".</p>
