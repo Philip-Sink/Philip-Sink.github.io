@@ -1,0 +1,18 @@
+---
+title: "Simplicial Semantics for Belief Revision"
+collection: publications
+category: prepublications
+permalink: /publication/2026-08-13-Simplicial-Semantics-For-Belief-Revision
+excerpt: 'This paper will give a definition of belief revision within simplicial semantics. Starting from the work presented in "A Semantics for Belief in Simplicial Complexes" as a baseline, this paper modifies the semantics for belief given there to allow atomic formulae to be assigned to nodes, not facets. Conceptually and philosophically, this version of the semantics is better suited if one wishes to interpret the nodes of a simplicial model of epistemic logic as a "perspective" assigned to a particular agent. If nodes are perspectives, it then follows that worlds, or the facets of a simplicial model, are composed themselves of perspectives. This allows us to say that two worlds are more similar, or "nearer", if they share more perspectives. With this conceptual notion of nearness in hand, two different formal presentations of revision are given. We conclude by exploring some conceptual pitfalls surrounding these definitions under iterated revision, and motivate a few potential solutions that involve giving the agents a "memory" of what has been announced so far. '
+date: 2026-08-13
+venue: 'arXiv'
+slidesurl: 
+paperurl: 'https://arxiv.org/abs/2608.13763'
+bibtexurl: 'https://arxiv.org/abs/2608.13763'
+citation: 'Philip Sink (2026). &quot;Simplicial Semantics for Belief Revision&quot; <i>arXiv</i> '
+---
+<p>This paper was the first piece of work made public on my research into simplicial semantics for modal logic after the initial technical report. The reason this paper was pushed out first is that the main result was needed to be cited in the second technical report, currently forthcoming.</p>
+
+<p>This paper is not obviously connected to simplicial semantics, however. What this paper provides is a general tool for closing certain gaps in more complicated completeness proofs in the simplicial literature. Generally, completeness in that setting is shown first by generating a canonical Kripke model which is translated into a simplicial model. However, the general techniques for creating canonical Kripke models do not always create a mdoel which can be so translated. Our main result in this paper provides a way of transforming canonical models in such a way that the output is bisimilar, but the output is guaranteed to be translateable into a simplicial model under most translation functions.</p>
+
+<p>The content of this paper was published in the 2026 proceedings of Advances in Modal Logic, alongside <a href="https://philip-sink.github.io/publication/2026-06-01-A-Semantics-for-Belief-in-Simplicial-Complexes">other work</a></p>.
