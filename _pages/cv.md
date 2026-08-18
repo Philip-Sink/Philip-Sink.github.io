@@ -98,7 +98,7 @@ Service
 
 * Reviewed paper for conference "Theoretical Aspects of Rationality and Knowledge 2025"
 
-* Reviewed paper for "Journal of Logic and Computation" in 2022
+* Reviewed paper for "Journal of Logic and Computation" in 2022, 2026
 
 * Center for Formal Epistemology Workshop 2022: Learning, Randomness, and Complexity Organizational Assistant
   * Helped with broad organizational duties
