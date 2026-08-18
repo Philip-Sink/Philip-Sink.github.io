@@ -10,7 +10,7 @@ paperurl: 'N/A'
 citation: 'N/A'
 ---
 
-<p>This paper is jointly authored with my colleague[Stephen Perry](https://www.stepheneperry.com/).</p>
+<p>This paper is jointly authored with my colleague <a href="https://www.stepheneperry.com/">Stephen Perry</a>.</p>
 
 <p>One classic question of 20th century philosophy, inspired by Wigner’s classic 1960 paper, is "Why is mathematics, something abstract, so applicable to the sciences, something empirical?" A new analytical tool, description fitting, seeks to ease our mind about such questions. There is no one, singular way that applied mathematics works. Rather, the particular goals relative to each project inform how each piece of applied mathematics "works". Applied mathematicians will massage, or "fit" their description of the natural world, sometimes in very idealized or even false ways, in order to make that description amenable to formalization.</p>
 
