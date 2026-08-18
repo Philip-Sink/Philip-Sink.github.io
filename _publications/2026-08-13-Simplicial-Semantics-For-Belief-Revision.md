@@ -13,8 +13,4 @@ citation: 'Philip Sink (2026). &quot;Simplicial Semantics for Belief Revision&qu
 ---
 <p>If you've ever wondered why philosophers should care about simplicial semantics for modal logic, here is my answer! In this paper I show that simplicial semantics offers a nice implementation of belief revision à la Lewis. The basic idea is that, because simplicial semantics does not take worlds as foundational objects, worlds themselves have more "structure" that we can exploit. In particular, worlds are made up of "local states" of individual agents, and worlds sharing a particular agent's local state is how we model an agent being "uncertain" between the two worlds.</p>
 
-Building on the work here:
-
-arxiv.org/abs/2512.14647
-
-The insight in this new paper was to use these local states also to model "nearness"; if two worlds share more local states, we say that they are nearer or more similar!</p>
+<p>Building on the work [here](arxiv.org/abs/2512.14647), the insight in this new paper was to use these local states also to model "nearness"; if two worlds share more local states, we say that they are nearer or more similar!</p>
