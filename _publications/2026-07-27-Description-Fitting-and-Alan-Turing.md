@@ -4,7 +4,7 @@ collection: publications
 category: review
 permalink: /publication/2026-07-27-Description-Fitting-and-Alan-Turing
 excerpt: ''
-date: 2026-27-7
+date: 2026-07-27
 venue: 'N/A'
 paperurl: 'N/A'
 citation: 'N/A'
